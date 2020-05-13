@@ -15,7 +15,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installation
 
-Install Python 3.7  and execute 
+Install [Python 3.7](https://www.python.org/downloads/release/python-377/)  and execute 
 
 ```
 python app.py
