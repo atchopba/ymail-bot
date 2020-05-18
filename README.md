@@ -24,5 +24,3 @@ python app.py
 ## License & copyright
 
 This project is licensed under the GNU GENERAL PUBLIC LICENSE - see the [LICENSE.md](LICENSE.md) file for details
-
-Set your account less secure
